@@ -1,0 +1,7 @@
+{
+  "name": "capybara_example",
+  "private": true,
+  "dependencies": {
+    "chromedriver": "^2.45.0"
+  }
+}
